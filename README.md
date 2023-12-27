@@ -13,7 +13,7 @@
   
 <br>
 <h2>Instruções de Uso:</h2>
-1. Abra o arquivo `index.html` no seu navegador web.
+1. Abra o arquivo  <a href="https://davialexandreh.github.io/Conversor-de-Moedas/"> no seu navegador web.
 <br>
 2. A moeda de origem (Real Brasileiro) já vem selecionada por padrão.
 <br>

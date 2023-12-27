@@ -13,13 +13,13 @@
   
 <br>
 <h2>Instruções de Uso:</h2>
-1. Abra o arquivo  <a href="https://davialexandreh.github.io/Conversor-de-Moedas/"> no seu navegador web.
+1. Abra o arquivo <a href="https://davialexandreh.github.io/Conversor-de-Moedas/"> clicando aqui.</a>
 <br>
 2. A moeda de origem (Real Brasileiro) já vem selecionada por padrão.
 <br>
 3. Escolha a moeda de destino (Dólar Americano, Euro, Libra Esterlina ou Bitcoin).
 <br>
-4. Insira o valor (somente com números) a ser convertido.
+4. Insira o valor (somente com números e/ou ponto para separar as casas decimais) a ser convertido.
 <br>
 5. Clique no botão "Converter" para ver o resultado.
 <br>

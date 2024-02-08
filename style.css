@@ -7,26 +7,32 @@
 }
 
 body {
-    background-color: #8A51FC;
-    ;
+    background-image: url('./assets/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
 }
 
-.logo {
-    width: 300px;
-    margin: 20px auto;
-    display: block;
+h1 {
+    text-align: center; 
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 5px;
+    margin-bottom: 20px;
 }
 
 main {
-    width: 375px;
+    width: 440px;
     border-radius: 20px;
-    background-color: #F4F4F4;
+    background-color: #FFF;
     margin: 0 auto 20px;
     padding: 44px 24px 23px;
+    opacity: 0.9;
 }
 
 label {
-    color: #777;
+    color: #333333;
     font-weight: 400;
     font-size: 14px;
 }
@@ -34,7 +40,7 @@ label {
 select,
 input {
     border-radius: 4px;
-    border: 1px solid #BBB;
+    border: 1px solid #62A9C2;
     background: #FFF;
     height: 45px;
     width: 100%;
@@ -48,17 +54,17 @@ input {
 
 button {
     border-radius: 5px;
-    background: #772FD3;
+    background: #ffffff;
     width: 100%;
     margin: 0 auto;
     display: block;
-    border: none;
+    border-color: #62A9C2;
     height: 50px;
-    color: #FFF;
+    color: rgb(64, 64, 171);
     font-size: 20px;
     font-weight: 700;
     cursor: pointer;
-    filter: drop-shadow(0px 5px 5px #772FD3);
+
 }
 
 button:hover {
@@ -71,7 +77,7 @@ button:active {
 
 section {
     border-radius: 20px;
-    border: 1px solid #772FD3;
+    border: 1px solid #62A9C2;
     width: auto;
     margin-top: 35px;
     padding: 10px;

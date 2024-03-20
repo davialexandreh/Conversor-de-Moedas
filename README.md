@@ -1,6 +1,6 @@
 <h1> CONVERSOR DE MOEDAS </h1>
 <br>
-<p>Projeto desenvolvido com foco no JavaScript. Este é um conversor de moedas, com a moeda padrão sendo o Real Brasileiro. Os usuários podem escolher entre quatro moedas: Dólar Americano, Euro, Libra Esterlina e Bitcoin para realizar a conversão.</p>
+<p>Projeto desenvolvido com foco no JavaScript. Este é um conversor de moedas, com a moeda padrão sendo o Real Brasileiro. Os usuários podem escolher entre quatro moedas: Dólar Americano, Euro, Libra Esterlina e Bitcoin para realizar a conversão na cotação atual do dia.</p>
 <br>
 <h2>Tecnologias Utilizadas:</h2>
 
@@ -24,4 +24,4 @@
 <br>
 
 <h2>Visualização do Projeto:</h2>
-<img src="assets/Visualização do Projeto.png" alt="Project-image">
+<img src="assets/Screen project.png" alt="Project-image">
